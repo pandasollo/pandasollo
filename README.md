@@ -1,4 +1,4 @@
-<h2 align="center">👋 My name is panda sollo and believe it or not that's really my name</h2>
+<h2 align="center">My name is panda sollo and believe it or not that's really my name</h2>
 
 ###
 
