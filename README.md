@@ -1,4 +1,4 @@
-<h2 align="center">My name is panda sollo and believe it or not that's really my name</h2>
+<h2 align="center">My name really is panda sollo and believe it or not</h2>
 
 ###
 
@@ -31,6 +31,9 @@
 
 <br clear="both">
 
-<img align="right" height="150" src=""  />
+
 
 ###
+
+<p align="center">Sou apenas um entusiasta curioso em busca de aprender cada vez mais sobre programação
+
